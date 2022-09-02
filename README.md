@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
+- Solution URL: [frontendmentor](https://www.frontendmentor.io/solutions/social-proof-section-using-html-and-css-flex-box-AVusFHqU1M)
 - Live Site URL: [Vercel](https://social-proof-section-nine-roan.vercel.app/)
 
 ### Built with
@@ -45,7 +45,7 @@ This challenge helped better my Html and CSS skills
 
 ## Author
 
--Github -[@thegirlcoderr]()
+- Github -[@thegirlcoderr](https://github.com/thegirlcoderr)
 
 - Frontend Mentor - [@thegirlcoderr](https://www.frontendmentor.io/profile/thegirlcoderr)
 
